@@ -1,0 +1,6 @@
+*.exe
+*.s
+combined.h
+*.txt
+obj
+build
